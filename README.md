@@ -1,2 +1,2 @@
-# rbcam
-Web-based CAM softare
+# Royal Banana CAM
+Web-based CAM software.
